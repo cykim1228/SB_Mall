@@ -1,4 +1,4 @@
-package com.sb.controller;
+package com.sb.mall;
 
 import java.text.DateFormat;
 import java.util.Date;
